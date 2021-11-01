@@ -1,0 +1,1 @@
+text == "hhaaii hhooww aarree"

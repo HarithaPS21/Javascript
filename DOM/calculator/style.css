@@ -1,0 +1,33 @@
+body{
+    background-color:olive ;
+}
+.container{
+    position:absolute;
+    left:30%;
+}
+h1{
+    text-align: center;
+    color:maroon;
+}
+.numbers{
+    background-color:blanchedalmond;
+    width:100px;
+    height:30px;
+}
+.operation{
+    background-color: coral;
+    width :100px;
+    height:30px;
+}
+#Cstyle{
+    background-color: crimson;
+    width:100px;
+    height:30px;
+}
+td{
+    margin-right: 1px;
+}
+#result{
+    width:400px;
+    height:30px;
+}
